@@ -1,0 +1,3 @@
+﻿  MPAA-2ndLab.cpp
+C:\Users\rufus\Desktop\Repositories\MPAA-2ndLab\MPAA-3rdLab\MPAA-2ndLab.cpp(11): warning C4715: 'allocate_memory': not all control paths return a value
+  MPAA-3rdLab.vcxproj -> C:\Users\rufus\Desktop\Repositories\MPAA-2ndLab\x64\Debug\MPAA-3rdLab.exe
